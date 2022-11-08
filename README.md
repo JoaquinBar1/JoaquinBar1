@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I start with development above 2 years, first by myself and then I realice a bootcamp on Digital House Coding School. There I learn
 
 *   🌍  I'm based in Neuquén, Argentina
 *   ✉️  You can contact me at [Joaquinbarrionuevo912@gmail.com](mailto:Joaquinbarrionuevo912@gmail.com)
